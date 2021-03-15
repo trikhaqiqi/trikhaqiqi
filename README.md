@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilyassstri
 - 👀 I’m interested in PHP, Javascript, Python.
 - 🌱 I’m currently learning PHP, Javascript, Python.
-- 💞️ I’m looking to collaborate on in website creation.
+- 💞️ I’m looking to collaborate on website creation.
 - 📫 How to reach me to trikhaqiqi@gmail.com
 
 <!---
