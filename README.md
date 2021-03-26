@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilyassstri an informatics engineering student.
+- 👋 Hi, I’m @ilyassstri an Informatics Engineering student.
 - 👀 I’m interested in PHP, Javascript, and Python.
 - 🌱 I’m currently learning PHP, Javascript, and Python.
 - 💞️ I’m looking to collaborate on website creation.
