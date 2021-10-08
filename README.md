@@ -5,7 +5,7 @@
 This is a collection of code that I created based on the learning outcomes during my life in this world. I realize that my skills are still a little bit, therefore I will not stop to learn.
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PHP, Javascript, and Python. 
+- 🌱 I’m currently learning PHP, Javascript, Dart and Python. 
 - 👯 I’m looking to collaborate on create a website 
 - 📫 How to reach me: trikhaqiqi@gmail.com 
 
