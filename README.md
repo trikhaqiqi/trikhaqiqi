@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Ilyas
 
+(https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+
 This is a collection of code that I created based on the learning outcomes during my life in this world. I realize that my skills are still a little bit, therefore I will not stop to learn.
 
 - 🔭 I’m currently working on this page. 
