@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ilyas
 
 ![I am an engineering]
-(https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+([https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47xj71birbnvfy7ddrb4p72ilmz1fh1x0xt9154svq&ep=v1_gifs_related&rid=giphy.gif&ct=g))
 
 This is a collection of code that I created based on the learning outcomes during my life in this world. I realize that my skills are still a little bit, therefore I will not stop to learn.
 
