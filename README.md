@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Ilyas
+# Hi there, my name is Ilyas 👋
 
 This is a collection of code that I created based on the learning outcomes during my life in this world. I realize that my skills are still a little bit, therefore I will not stop to learn.
 
